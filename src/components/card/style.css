@@ -1,0 +1,15 @@
+.card {
+    background-color: #eee;
+    border-radius: 10px;
+    overflow: hidden;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    height: auto;
+}
+
+.slick-slide > div {
+    margin: 10px 10px;
+}
+
+
